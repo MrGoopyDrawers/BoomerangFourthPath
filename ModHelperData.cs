@@ -3,7 +3,7 @@ namespace BoomerangMonkeyFourthPath;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "36.1";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "BoomerangMonkeyFourthPath";
 
     public const string Description = "Adds the boomerang monkey fourth path, which is focused on mass destruction.";
